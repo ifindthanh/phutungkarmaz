@@ -235,23 +235,23 @@ msgid "Your comment is awaiting moderation."
 msgstr ""
 
 #: functions.php:1108
-msgid "Read More"
+msgid "Xem thêm"
 msgstr ""
 
 #: functions.php:1188
-msgid "Results"
+msgid "Kết quả"
 msgstr ""
 
 #: functions.php:1188
-msgid "Show all results."
+msgid "Hiện tất cả kết quả."
 msgstr ""
 
 #: functions.php:1190
-msgid "No results found."
+msgid "Không tìm thấy kết quả nào."
 msgstr ""
 
 #: functions.php:1362 functions/theme-actions.php:282
-msgid "View your shopping cart"
+msgid "Xem giỏ hàng của bạn"
 msgstr ""
 
 #: functions.php:1362 functions/theme-actions.php:282
@@ -294,7 +294,7 @@ msgid "Contact Form Message from"
 msgstr ""
 
 #: functions/contact-form.php:112
-msgid "Name:"
+msgid "Tên:"
 msgstr ""
 
 #: functions/contact-form.php:113
@@ -302,11 +302,11 @@ msgid "Email:"
 msgstr ""
 
 #: functions/contact-form.php:114
-msgid "Message:"
+msgid "Thông điệp:"
 msgstr ""
 
 #: functions/contact-form.php:133 theme-options.php:1060
-msgid "Name"
+msgid "Tên"
 msgstr ""
 
 #: functions/contact-form.php:136
@@ -314,7 +314,7 @@ msgid "Email"
 msgstr ""
 
 #: functions/contact-form.php:139
-msgid "Message"
+msgid "Thông điệp"
 msgstr ""
 
 #: functions/contact-form.php:142
@@ -439,7 +439,7 @@ msgid "Link Relationship (XFN)"
 msgstr ""
 
 #: functions/nav-menu.php:219 functions/plugin-activation.php:2516
-msgid "Description"
+msgid "Chi tiết"
 msgstr ""
 
 #: functions/nav-menu.php:221

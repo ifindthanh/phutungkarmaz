@@ -59,23 +59,23 @@ msgid "One Response"
 msgstr ""
 
 #: comments.php:21
-msgid "% Comments"
+msgid "% Nhận xét"
 msgstr ""
 
 #: comments.php:47
-msgid "Leave a Reply"
+msgid "Gửi phản hồi"
 msgstr ""
 
 #: comments.php:50
-msgid "Add Comment"
+msgid "Thêm nhận xét"
 msgstr ""
 
 #: comments.php:51
-msgid "Comment Text*"
+msgid "Nhận xét*"
 msgstr ""
 
 #: comments.php:55
-msgid "Name*"
+msgid "Tên*"
 msgstr ""
 
 #: comments.php:57
@@ -212,39 +212,39 @@ msgid "No more posts."
 msgstr ""
 
 #: functions.php:886
-msgid "Author"
+msgid "Tác giả"
 msgstr ""
 
 #: functions.php:996
-msgid "(Edit)"
+msgid "(Sửa)"
 msgstr ""
 
 #: functions.php:998
-msgid "Reply"
+msgid "Trả lời"
 msgstr ""
 
 #: functions.php:1004
-msgid "Your comment is awaiting moderation."
+msgid "Nhận xét của bạn đang được duyệt bởi quản trị viên."
 msgstr ""
 
 #: functions.php:1108
-msgid "Read More"
+msgid "Xem thêm"
 msgstr ""
 
 #: functions.php:1188
-msgid "Results"
+msgid "Kết quả"
 msgstr ""
 
 #: functions.php:1188
-msgid "Show all results."
+msgid "Hiện toàn bộ kết quả."
 msgstr ""
 
 #: functions.php:1190
-msgid "No results found."
+msgid "Không tìm thấy kết quả."
 msgstr ""
 
 #: functions.php:1362 functions/theme-actions.php:282
-msgid "View your shopping cart"
+msgid "Xem giỏ hàng của bạn"
 msgstr ""
 
 #: functions.php:1362 functions/theme-actions.php:282
@@ -263,23 +263,23 @@ msgid "No Preview"
 msgstr ""
 
 #: functions/contact-form.php:33 functions/contact-form.php:51
-msgid "An error occurred. Please contact site administrator."
+msgid "Đã có lỗi xảy ra, vui lòng liên hệ quản trị viên."
 msgstr ""
 
 #: functions/contact-form.php:72 functions/contact-form.php:77
-msgid "Please try again."
+msgid "Vui lòng thử lại."
 msgstr ""
 
 #: functions/contact-form.php:83
-msgid "Please enter your name."
+msgid "Vui lòng nhập tên của bạn."
 msgstr ""
 
 #: functions/contact-form.php:89
-msgid "Please enter a valid email address."
+msgid "Vui lòng điền địa chỉ email hợp lệ."
 msgstr ""
 
 #: functions/contact-form.php:95
-msgid "Please enter a message."
+msgid "Vui lòng nhập thông điẹp."
 msgstr ""
 
 #: functions/contact-form.php:111
@@ -287,7 +287,7 @@ msgid "Contact Form Message from"
 msgstr ""
 
 #: functions/contact-form.php:112
-msgid "Name:"
+msgid "Tên:"
 msgstr ""
 
 #: functions/contact-form.php:113
@@ -295,11 +295,11 @@ msgid "Email:"
 msgstr ""
 
 #: functions/contact-form.php:114
-msgid "Message:"
+msgid "Thông điệp:"
 msgstr ""
 
 #: functions/contact-form.php:133 theme-options.php:1060
-msgid "Name"
+msgid "Tên"
 msgstr ""
 
 #: functions/contact-form.php:136
@@ -307,15 +307,15 @@ msgid "Email"
 msgstr ""
 
 #: functions/contact-form.php:139
-msgid "Message"
+msgid "Thông điệp"
 msgstr ""
 
 #: functions/contact-form.php:142
-msgid "Send"
+msgid "Gửi"
 msgstr ""
 
 #: functions/contact-form.php:145
-msgid "Your message has been sent."
+msgid "Thông điệp của bạn đã được gửi."
 msgstr ""
 
 #: functions/metaboxes.php:43
@@ -432,7 +432,7 @@ msgid "Link Relationship (XFN)"
 msgstr ""
 
 #: functions/nav-menu.php:219 functions/plugin-activation.php:2516
-msgid "Description"
+msgid "Mô tả chi tiết"
 msgstr ""
 
 #: functions/nav-menu.php:221
@@ -1054,7 +1054,7 @@ msgstr ""
 
 #: functions/theme-actions.php:337 functions/widget-relatedposts.php:30
 #: singlepost-parallax.php:151 singlepost-parallax.php:171
-msgid "Related Posts"
+msgid "Các bài viết liên quan"
 msgstr ""
 
 #: functions/theme-actions.php:459
@@ -1789,7 +1789,7 @@ msgid "Menu"
 msgstr ""
 
 #: index.php:133
-msgid "Latest Articles"
+msgid "Bài viết mới nhất"
 msgstr ""
 
 #: options/demo-importer/importer/parsers.php:42
@@ -2848,15 +2848,15 @@ msgid ""
 msgstr ""
 
 #: searchform.php:10
-msgid "Search the site"
+msgid "Tìm kiếm"
 msgstr ""
 
 #: sidebar.php:8 theme-options.php:1139
-msgid "Search"
+msgid "Tìm kiếm"
 msgstr ""
 
 #: sidebar.php:12
-msgid "Archives"
+msgid "Lưu trữ"
 msgstr ""
 
 #: sidebar.php:18
@@ -2864,15 +2864,15 @@ msgid "Meta"
 msgstr ""
 
 #: single.php:76 single.php:106
-msgid "Related"
+msgid "Liên quan"
 msgstr ""
 
 #: single.php:148 singlepost-parallax.php:203
-msgid "About The Author"
+msgid "Thông tin tác giả"
 msgstr ""
 
 #: single.php:155 singlepost-parallax.php:210
-msgid "Email Author"
+msgid "Email của tác giả"
 msgstr ""
 
 #: theme-options.php:24
@@ -2898,7 +2898,7 @@ msgid "Theme Options"
 msgstr ""
 
 #: theme-options.php:125
-msgid "Support"
+msgid "Hỗ trợ"
 msgstr ""
 
 #: theme-options.php:126

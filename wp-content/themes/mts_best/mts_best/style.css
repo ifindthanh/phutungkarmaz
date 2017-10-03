@@ -979,29 +979,11 @@ hr {
 }
 .article #searchform { max-width: 300px }
 #searchform fieldset { float: left }
-.sbutton, #searchsubmit, .widget_product_search {
+.sbutton, #searchsubmit, .widget_product_search input[type="submit"]  {
     right: 0px;
     top: 0px;
     padding: 0;
     float: right;
-    border: 0;
-    width: 48px;
-    height: 48px;
-    cursor: pointer;
-    text-align: center;
-    color: white;
-    transition: all 0.25s linear;
-    z-index: 10;
-    position: absolute;
-    border: 0;
-    vertical-align: top;
-    background: transparent;
-}
-
-input[type="submit"] {
-    right: 0px;
-    top: 0px;
-    padding: 0;
     border: 0;
     width: 48px;
     height: 48px;
